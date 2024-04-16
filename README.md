@@ -13,7 +13,7 @@
 - Install [NodeJS](https://nodejs.org/en/)
 
 ## Setting Up
-### 1. Clone/Download the Repository
+### 1. Clone the Repository
 
 ### 2. Start Hardhat node
 `$ npx hardhat node`
